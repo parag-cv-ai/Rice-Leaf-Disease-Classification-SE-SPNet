@@ -1,2 +1,2 @@
-# PlantLeaf-Disease-Classification
+# Rice-Leaf-Disease-Classification-SE-SPNet
 
