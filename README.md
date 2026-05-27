@@ -250,11 +250,13 @@ Future extensions of this framework include:
 ---
 
 # 📚 Publication
+This work is associated with the following research publication:
 
 **SE_SPnet: Rice leaf disease prediction using stacked parallel convolutional neural network with squeeze-and-excitation**  
 Parag Bhuyan et al.
 
-📄 Paper: [Read Publication](https://doi.org/10.1111/exsy.13304)
+📄 📌 Publication Link: [Read Publication](https://doi.org/10.1111/exsy.13304)
+📌 Full Paper PDF: [Download Publication](paper/publication.pdf)
 
 If you use this work in your research, please cite.
 
