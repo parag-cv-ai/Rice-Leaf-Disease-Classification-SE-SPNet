@@ -165,11 +165,11 @@ The model is evaluated using:
 
 | Metric | Score |
 |---|---|
-| Accuracy | XX.XX% |
-| Precision | XX.XX |
-| Recall | XX.XX |
-| F1-Score | XX.XX |
-| Specificity | XX.XX |
+| Accuracy | 99.24 |
+| Precision | 99.26 |
+| Recall | 99.24 |
+| F1-Score | 99.24 |
+| Specificity | 99.62 |
 
 > Replace with your final experimental metrics.
 
