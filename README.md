@@ -171,8 +171,6 @@ The model is evaluated using:
 | F1-Score | 99.24 |
 | Specificity | 99.62 |
 
-> Replace with your final experimental metrics.
-
 ---
 
 # 📉 Training Curves
@@ -257,6 +255,7 @@ Future extensions of this framework include:
 Parag Bhuyan et al.
 
 📄 Paper: [Read Publication](https://doi.org/10.1111/exsy.13304)
+
 If you use this work in your research, please cite.
 
 ---
